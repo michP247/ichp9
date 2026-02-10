@@ -1,2 +1,1 @@
-# ichp9
-Oracle Database Administration Workshop Student Guide-Volume 23ai
+The "Oracle Database Administration Workshop Student Guide-Volume 23ai" is the official course material for the Oracle Database 23ai: Administration Workshop, a comprehensive training program for Database Administrators (DBAs). The guide covers topics from fundamental architecture to advanced performance tuning and AI features.
